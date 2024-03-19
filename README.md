@@ -1,4 +1,4 @@
-# django-ajax
+# django-ajax demo
 
 This is the companion source code for a Youtube tutorial that showcases how to use Ajax in Django. We are implementing a one-page project were we can increment/decrement counters using Ajax. We are also using Bootstrap 5 for a better UI.
 
